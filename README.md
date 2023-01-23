@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @isyedtanzeem
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Web Development
 - 📫 How to reach me isyedtanzeem@gmail.com
 
 
